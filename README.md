@@ -7,7 +7,7 @@ I am Alexander, and I am a newbie.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
-    <a href="https://github.com/alexmccaffer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/alexmccaffer" target="_blank"><img alt="GitHub" src="https://github.com/alexmccaffer?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
 
 <details>
